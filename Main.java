@@ -4,4 +4,8 @@ class Main{
 }
 	}
 
+<<<<<<< HEAD
 code master branch maffak
+=======
+изменение дев ветки
+>>>>>>> dev
